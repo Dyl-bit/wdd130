@@ -1,1 +1,38 @@
+:root{
+  background:citron;
+}
+.header{
+  font-family: "Lora",seris;
+}
+body{
+  font-family: "Gidole",serif;
+}
+.header{
+  color:black;
+}
+body{
+  color:licorice;
+}
+a {
+  text-decoration:none;
+}
+div .hero{
+  position:relative;
+}
+article{
+  position:absolute;
+}
+.hero img{
+  display:block;
+  width:100 % ;
+  height:auto;
+}
+h1{
+  position:absolute;
+}
+article img{
+  p{
+    float:right;
+  }
+}
 
