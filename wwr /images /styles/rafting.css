@@ -11,6 +11,7 @@ body{
   display:grid;
   justify-self:end;
   grid-column: 2/-1
+    flex: 1;
     img{
     float:left;
     border: 1px solid #ddd;
